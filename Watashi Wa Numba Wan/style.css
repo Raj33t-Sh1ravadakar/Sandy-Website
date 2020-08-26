@@ -1,0 +1,73 @@
+body
+{
+    font-family: serif;
+    width:1890px;
+    background: #f5aaa5;
+}
+h1
+{
+    
+    margin:auto;
+    border:auto;
+    
+}
+.main-head
+{
+   
+}
+.container
+{
+    width:75%;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+
+.left {
+    width:12.5%;
+    float:left; 
+        
+}
+
+.right {
+    width:12.5%;
+    float:right; 
+}
+
+.one{
+    font-size:84px;
+    margin:0;
+    border:0;
+    width:45%;
+    float:left; 
+}
+    
+.three{
+    margin:0;
+    border:0;
+    width:45%;
+    float:right; 
+    
+}
+
+.onep{
+    margin:0;
+    border:0;
+    width:100%;
+    float:left; 
+}
+    
+.threep{
+    font-size:85px;
+    margin:0;
+    border:9;
+    width:100%;
+    float:right; 
+    
+}
+
+
+
+
+
+
